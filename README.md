@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*s80xLYgbrwbXgEuuDBR5mw.jpeg)
+![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*s80xLYgbrwbXgEuuDBR5mw.jpeg)
 
 <h1 align="center">Hi 👋, I'm Emine Uğurlu</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
