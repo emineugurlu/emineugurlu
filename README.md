@@ -1,4 +1,4 @@
-: [![MasterHead](https://www.google.com/search?sca_esv=6cd9da195cd6c29a&sca_upv=1&sxsrf=ADLYWIJytuGOmWwdgD_sOJ-BtUe8KJAKkQ:1721205510233&q=front+end&udm=2&fbs=AEQNm0CgMcZ11KbHg1uunEmuo39LYaLxf_n_v5Qu9vkTINnKPNxSSRV--bGiJa6CXOAP_uiHPbLwpiGDt9Ut9ZZcy-dTHFk6cnaRTJM3Wx51r69OfVyFgdrbbbXac2vDP2cyD1lPs7YLexcFQGcci7jmBycdT2D42AuYV5n-5bsH5W6b45S-jQtck9Px0rB45qJVSZvgMclO8uzPfUkw1Eom05PmjpHRmw&sa=X&ved=2ahUKEwi0gpeY1q2HAxWFOHoKHWXPDh0QtKgLegQIERAB&biw=1536&bih=695&dpr=1.25#vhid=9aCNkaXDTP2QDM&vssid=mosaic)
+: [![MasterHead]https://tolustar.com/wp-content/uploads/2020/02/Front-end-Development.jpeg)
 <h1 align="center">Hi 👋, I'm Emine Uğurlu</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
