@@ -1,4 +1,4 @@
-: [![MasterHead]https://tolustar.com/wp-content/uploads/2020/02/Front-end-Development.jpeg)
+[![MasterHead]https://tolustar.com/wp-content/uploads/2020/02/Front-end-Development.jpeg)
 <h1 align="center">Hi 👋, I'm Emine Uğurlu</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
