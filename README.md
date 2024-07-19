@@ -1,10 +1,10 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*s80xLYgbrwbXgEuuDBR5mw.jpeg)
-
 <h1 align="center">Hi 👋, I'm Emine Uğurlu</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/emine ugurlu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emine ugurlu" height="30" width="40" /></a>
 <a href="https://instagram.com/emine__ugurlu__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emine__ugurlu__" height="30" width="40" /></a>
 </p>
 
