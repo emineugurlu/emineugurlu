@@ -1,6 +1,6 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*cfmRtbFOaB8q1Icn8EBsjw.png)
 <h1 align="center">Hi 👋, I'm Emine Uğurlu</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">A passionate software developer from Turkey</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
