@@ -1,4 +1,4 @@
-![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40zps270%2Fthe-future-of-junior-software-developers-in-the-age-of-ai-ml-8532288e7055&psig=AOvVaw0IEu31GZYX3HtTdQRt0l8s&ust=1721574410106000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMivpczytYcDFQAAAAAdAAAAABBL)
+![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*cfmRtbFOaB8q1Icn8EBsjw.png)
 <h1 align="center">Hi 👋, I'm Emine Uğurlu</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
