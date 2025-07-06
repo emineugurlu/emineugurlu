@@ -1,4 +1,5 @@
-![header](https://miro.medium.com/v2/resize:fit:1400/1*cfmRtbFOaB8q1Icn8EBsjw.png)
+![header](https://github.com/user-attachments/assets/d30de922-79c7-4f03-aa0e-0551ddd6ffef)
+
 
 <h1 align="center">Hi, I'm Emine Uğurlu 🤖</h1>
 <h3 align="center"><i>AI-Native Developer | I don't just code — I collaborate with intelligence.</i></h3>
@@ -13,7 +14,7 @@ I’m not just a developer. I’m a thinker who builds with AI.
 💡 I let machines handle repetition while I focus on creativity.  
 ⚡ I believe coding is not labor — it's **strategy, clarity, and vision**.
 
-#### 🧰 My AI Stack
+### 🧰 My AI Stack
 - GitHub Copilot as my keyboard sidekick  
 - OpenAI APIs for reasoning and generation  
 - LangChain to make ideas dynamic
@@ -30,7 +31,7 @@ Ben sadece yazılım geliştirmiyorum. Yapay zekâyla birlikte **düşünüyor, 
 🧠 Yapay zekâ benim aracım değil — ortağım.  
 🚀 Rutin işleri AI’a devredip **önemli olanı üretmeye** odaklanıyorum.
 
-#### 🧰 Kullandığım AI Araçları
+### 🧰 Kullandığım AI Araçları
 - GitHub Copilot → refleksim gibi  
 - OpenAI API → karar verici zekâ  
 - LangChain → fikirleri gerçekliğe bağlayan köprü
@@ -43,13 +44,26 @@ Ben sadece yazılım geliştirmiyorum. Yapay zekâyla birlikte **düşünüyor, 
 
 <p align="center">
   <a href="https://linkedin.com/in/emine-ugurlu" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
   </a>
   <a href="https://instagram.com/emine__ugurlu__" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="30"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="30" />
   </a>
   <a href="https://medium.com/@emineugurlu957" target="_blank">
-    <img src="https://skillicons.dev/icons?i=medium" height="30"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" width="30" />
   </a>
 </p>
 
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=emineugurlu&show_icons=true&theme=react" alt="Emine's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emineugurlu&theme=react" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emineugurlu&layout=compact&theme=react" alt="Top Languages" />
+</p>
