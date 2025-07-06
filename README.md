@@ -1,9 +1,10 @@
+<!-- 🎨 Header -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d30de922-79c7-4f03-aa0e-0551ddd6ffef" width="600" />
+  <img src="https://github.com/user-attachments/assets/d30de922-79c7-4f03-aa0e-0551ddd6ffef" width="600" alt="AI Developer Banner"/>
 </p>
 
 <h1 align="center">Hi, I'm Emine Uğurlu 🤖</h1>
-<h3 align="center"><i>AI-Native Developer | I don't just code — I collaborate with intelligence.</i></h3>
+<h3 align="center"><i>AI-Native Developer · I don’t just code — I collaborate with intelligence.</i></h3>
 
 ---
 
@@ -11,16 +12,16 @@
 
 I’m not just a developer. I’m a thinker who builds with AI.
 
-💬 I don’t "write" code — I prompt, refine, and orchestrate it.  
+💬 I don’t “write” code — I prompt, refine, and orchestrate it.  
 💡 I let machines handle repetition while I focus on creativity.  
-⚡ I believe coding is not labor — it's **strategy, clarity, and vision**.
+⚡ To me, coding is not labor — it’s **strategy, clarity, and vision**.
 
 ### 🧰 My AI Stack
-- GitHub Copilot as my keyboard sidekick  
-- OpenAI APIs for reasoning and generation  
-- LangChain to make ideas dynamic
+- GitHub Copilot → my reflex  
+- OpenAI API → my logic engine  
+- LangChain → my bridge from idea to execution
 
-> “I don’t compete with AI — I collaborate with it. That’s my edge.”
+> “I don’t compete with AI — I co-create with it. That’s my edge.”
 
 ---
 
@@ -57,8 +58,10 @@ Ben sadece yazılım geliştirmiyorum. Yapay zekâyla birlikte **düşünüyor, 
 
 ---
 
+## 📊 AI Developer Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emineugurlu&show_icons=true&theme=react" alt="Emine's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=emineugurlu&show_icons=true&theme=react&custom_title=Emine%20U%C4%9Furlu's%20GitHub%20Stats" alt="GitHub Stats" />
 </p>
 
 <p align="center">
