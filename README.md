@@ -1,5 +1,6 @@
-![header](https://github.com/user-attachments/assets/d30de922-79c7-4f03-aa0e-0551ddd6ffef)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d30de922-79c7-4f03-aa0e-0551ddd6ffef" width="700" />
+</p>
 
 <h1 align="center">Hi, I'm Emine Uğurlu 🤖</h1>
 <h3 align="center"><i>AI-Native Developer | I don't just code — I collaborate with intelligence.</i></h3>
