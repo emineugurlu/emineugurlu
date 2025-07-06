@@ -48,8 +48,8 @@ Ben sadece yazılım geliştirmiyorum. Yapay zekâyla birlikte **düşünüyor, 
   <a href="https://linkedin.com/in/emine-ugurlu" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
   </a>
-  <a href="https://instagram.com/emine__ugurlu__" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="30" />
+ <a href="https://linkedin.com/in/emine-ugurlu" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
   </a>
   <a href="https://medium.com/@emineugurlu957" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" width="30" />
