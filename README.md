@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d30de922-79c7-4f03-aa0e-0551ddd6ffef" width="700" />
+  <img src="https://github.com/user-attachments/assets/d30de922-79c7-4f03-aa0e-0551ddd6ffef" width="600" />
 </p>
 
 <h1 align="center">Hi, I'm Emine Uğurlu 🤖</h1>
