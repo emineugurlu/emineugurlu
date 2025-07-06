@@ -39,10 +39,16 @@ Ben sadece yazılım geliştirmiyorum. Yapay zekâyla birlikte **düşünüyor, 
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/emine-ugurlu"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://instagram.com/emine__ugurlu__"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-<a href="https://medium.com/@emineugurlu957"><img src="https://skillicons.dev/icons?i=medium" /></a>
+  <a href="https://linkedin.com/in/emine-ugurlu" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30"/>
+  </a>
+  <a href="https://instagram.com/emine__ugurlu__" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="30"/>
+  </a>
+  <a href="https://medium.com/@emineugurlu957" target="_blank">
+    <img src="https://skillicons.dev/icons?i=medium" height="30"/>
+  </a>
 </p>
