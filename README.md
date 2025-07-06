@@ -52,3 +52,4 @@ Ben sadece yazılım geliştirmiyorum. Yapay zekâyla birlikte **düşünüyor, 
     <img src="https://skillicons.dev/icons?i=medium" height="30"/>
   </a>
 </p>
+
