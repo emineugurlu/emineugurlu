@@ -58,19 +58,7 @@ Ben sadece yazılım geliştirmiyorum. Yapay zekâyla birlikte **düşünüyor, 
 
 ---
 
-## 📊 AI Developer Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emineugurlu&show_icons=true&theme=tokyonight&custom_title=AI%20Driven%20Coding%20Stats" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emineugurlu&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emineugurlu&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 <!-- Note: GitHub language stats reflect repo file sizes, not usage frequency. My AI work often lives in private tools or prompt-based workflows. -->
 
