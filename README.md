@@ -1,6 +1,7 @@
 <!-- 🎨 High-Performance Header -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d30de922-79c7-4f03-aa0e-0551ddd6ffef" width="800" alt="Emine Uğurlu - AI Architect Banner"/>
+  ![Uploading Gemini_Generated_Image_36l5d236l5d236l5.png…]()
+
 </p>
 
 <h1 align="center">🚀 I am Emine Uğurlu</h1>
@@ -48,6 +49,7 @@ In an era of rapid computation, I choose to be the **Strategic Architect**. Whil
 
 <p align="center">
   <a href="https://linkedin.com/in/emine-ugurlu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://dev.to/bytefluxlab" target="_blank"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devto&logoColor=white" /></a>
   <a href="https://www.instagram.com/emine.ugurlu_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://medium.com/@emine.dev/activity" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
